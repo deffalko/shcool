@@ -1,0 +1,1208 @@
+body {
+    width: 100%;
+    height: 4852px;
+}
+
+
+h2 {
+    color: black;
+}
+
+p {
+    color: #424242;
+    Font-size: 16px;
+}
+ul {
+    list-style: none;
+}
+
+.wrapper {
+    width: 1920px;
+    margin:  0 auto;
+    max-width: 100%;
+}
+
+
+
+.top-header__text {
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    Font-size: 16px;
+    margin-right: 354px;
+    padding-top: 34px;
+    cursor: pointer;
+}
+.top-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-sizing: border-box;
+    width: 1920px;
+    height: 93px;
+    background-color: #014FA1;
+}
+.top-header__two {
+    margin-left: 22px;
+}
+.top-header__three {
+    margin-left: 25px;
+}
+.top-header__four {
+    margin-left: 31px;
+}
+.top-header__five {
+    margin-left: 15px;
+}
+.top-header__logo {
+    position: absolute;
+    margin-right: 1071px;
+    margin-top: -21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header-text {
+    position: absolute;
+    color: #fff;
+    Font-size: 48px;
+    margin-top: -541px;
+    margin-left: 370px;
+}
+.btn {
+    position: absolute;
+    border: none;
+    color: #fff;
+    background-color: #FDA900;
+    width: 110px;
+    height: 40px;
+    Font-size: 16px;
+    border-radius: 29px;
+    Line-height: 21px;
+    text-align: center;
+    padding-top: 14px;
+    cursor: pointer;
+    margin-top: -321px;
+    margin-left: 374px;
+}
+.header-fon {
+    position: relative;
+    width: 1920px;
+    height: 865px;
+    /*background: url(/img/школа\ вдали.png);*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.features {
+    position: absolute;
+    width: 1920px;
+    height: 642px;
+
+}
+.features-textone {
+    position: absolute;
+    margin-top: 84px;
+    margin-left: 374px;
+}
+.features-texttwo {
+    position: absolute;
+    margin-top: 152px;
+    margin-left: 374px;
+}
+.features-textthree {
+    position: relative;
+}
+.features-textthree__text {
+    position: absolute;
+    margin-top: 321px;
+    margin-left: 407px;
+    Font-size: 16px;
+}
+.features-textthree__img {
+    position: absolute;
+    margin-top: 312px;
+    margin-left: 370px;
+}
+.features-textthree__arrow {
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 380px;
+}
+.features-textfour {
+    position: relative;
+}
+.features-textthree__imgtwo {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 370px;
+}
+.features-textthree__texttwo {
+    position: absolute;
+    margin-top: 359px;
+    margin-left: 407px;
+    Font-size: 16px;
+}
+.features-textthree__arrowtwo {
+    position: absolute;
+    margin-top: 357px;
+    margin-left: 380px;
+}
+.features-textthree__textthree {
+    position: absolute;
+    margin-top: 395px;
+    margin-left: 407px;
+    Font-size: 16px;
+}
+.features-textthree__imgthree {
+    position: absolute;
+    margin-top: 388px;
+    margin-left: 370px;
+}
+.features-textthree__arrowthree {
+    position: absolute;
+    margin-top: 394px;
+    margin-left: 380px;
+}
+.features .btn {
+    position: absolute;
+    margin-top: 28rem;
+}
+.article-card {
+    position: absolute;
+    width: 100%;
+}
+.article-card__text {
+    position: absolute;
+    margin-top: 156px;
+    margin-left: 1028px;
+    Font-size: 20px;
+    color: #014FA1;
+}
+.article-card__top {
+    position: absolute;
+    margin-top: 198px;
+    margin-left: 1028px;
+}
+.article-card__icon {
+    position: absolute;
+    margin-top: 156px;
+    margin-left: 970px;
+}
+.article-carde {
+    position: absolute;
+    width: 100%;
+    margin-left: 280px;
+}
+.article-cardt {
+    position: absolute;
+    width: 100%;
+    margin-top: 140px;
+}
+.article-cardy {
+    position: absolute;
+    width: 100%;
+    margin-top: 140px;
+    margin-left: 280px;
+}
+.bottom-text {
+    position: absolute;
+    width: 100%;
+    margin-top: 594px;
+    margin-left: 374px;
+    Font-size: 24px;
+}
+.line {
+    position: absolute;
+    margin-top: 134px;
+    margin-left: 1230px;
+}
+.linee {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 970px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fon {
+    position: relative;
+}
+.fon-fon{
+    position: absolute;
+    margin-top: 642px; 
+}
+.fon-text {
+    position: absolute;
+    margin-top: 669px;
+    margin-left: 369px;
+    Font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.article {
+    position: relative;
+}
+.article-port {
+    position: absolute;
+    border: 1px solid black;
+    width: 280px;
+    height: 317px;
+    margin-top: 869px;
+    margin-left: 512px;
+}
+.article-port__icon {
+    position: absolute;
+    margin-left: 100.7px;
+    margin-top: 38.32px;
+}
+.article-port__icont {
+    position: absolute;
+    margin-left: 98.5px;
+    margin-top: 16.69px;
+}
+.article-port__toptext {
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 38px;
+    font-size: 20px;
+    line-height: 26px;
+    line-height: 100%;
+    color: black;
+}
+.article-port__text {
+    position: absolute;
+    margin-top: 152px;
+    margin-left: 36px;
+}
+.article-port__bottomtext {
+    position: absolute;
+    margin-top: 278px;
+    margin-left: 36px;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 26px;
+    line-height: 100%;
+    color: black;
+}
+.article-portt {
+    position: absolute;
+    border: 1px solid black;
+    width: 280px;
+    height: 317px;
+    margin-top: 869px;
+    margin-left: 820px;
+}
+.article-portw {
+    position: absolute;
+    border: 1px solid black;
+    width: 280px;
+    height: 317px;
+    margin-left: 1130px;
+    margin-top: 869px;
+}
+.article-portf {
+    position: absolute;
+    border: 1px solid black;
+    width: 280px;
+    height: 317px;
+    margin-top: 1213px;
+    margin-left: 512px;
+}
+.article-portl {
+    position: absolute;
+    border: 1px solid black;
+    width: 280px;
+    height: 317px;
+    margin-top: 1213px;
+    margin-left: 820px;
+}
+.article-ports {
+    position: absolute;
+    border: 1px solid black;
+    width: 280px;
+    height: 317px;
+    margin-top: 1213px;
+    margin-left: 1130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.opis-text {
+    position: absolute;
+    margin-top: 1599px;
+    margin-left: 371px;
+    font-size: 24px;
+}
+.opis-texttwo {
+    position: absolute;
+    margin-top: 1669px;
+    margin-left: 371px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sostav-tortet {
+    position: absolute;
+    width: 100%;
+}
+.sostav-tort__bio {
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 1842px;
+}
+.sostav-tort__text {
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 2028px;
+}
+.sostav-tort__textpod {
+    position: absolute;
+    margin-left: 532px;
+    margin-top: 2056px;
+}
+.sostav-tortet__zam {
+    margin-left: 303px;
+}
+.sostav-tortet__zam .sostav-tort__textpod {
+    position: absolute;
+    margin-left: 500px;
+}
+.sostav-tortet__xim {
+    margin-left: 596px;
+}
+.sostav-tortet__russ {
+    position: absolute;
+    margin-top: 270px;
+    width: 100%;
+}
+.sostav-tortet__russ   .sostav-tort__textpod {
+    position: absolute;
+    margin-left: 479px;
+}
+.sostav-tortet__inglish {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 315px;
+    width: 100%;
+}
+.sostav-tortet__inglish .sostav-tort__textpod {
+    position: absolute;
+    margin-left: 480px;
+}
+.sostav-tortet__biolog {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 620px;
+    width: 100%;
+
+}
+.sostav-tortet__biolog .sostav-tort__textpod {
+    position: absolute;
+    margin-left: 500px;
+}
+.sostav-dlin {
+    position: absolute;
+    margin-top: 1922px;
+    background-image: url(/img/dlinnazline.png);
+    width: 1104px;
+    height: 322px;
+    margin-left: 372px;
+}
+.sostav-strelok {
+    position: absolute;
+    margin-top: 2025px;
+    margin-left: 1396px;
+    width: 139px;
+    height: 139px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pered-fon {
+    position: absolute;
+    background-image: url(/img/DEN_7174\ 1.png);
+    width: 1930px;
+    height: 489px;
+    margin-top: 2403px;
+}
+.pered-text {
+    position: absolute;
+    margin-top: 2432px;
+    margin-left: 480px;
+    font-size: 28px;
+    color: #fff;
+}
+.pered-lol__one-text {
+    position: absolute;
+    margin-top: 2521px;
+    font-size: 22px;
+    color: #fff;
+    margin-left: 567px;
+}
+.pered-lol__one-num {
+    position: absolute;
+    margin-top: 2513px;
+    font-size: 29px;
+    color: #fff;
+    margin-left: 507px;
+}
+.pered-lol__one-tellow {
+    position: absolute;
+    background-image: url(/img/yellow.png);
+    width: 65px;
+    height: 65px;
+    margin-top: 2499px;
+    margin-left: 480px;
+}
+.pered-lol__two {
+    position: absolute;
+    margin-top: 125px;
+}
+.pered-lol__three {
+    position: absolute;
+    margin-top: 245px;
+    width: 100%;
+}
+.pered-lol__line {
+    position: absolute;
+    background-image: url(/img/yellowline.png);
+    width: 3px;
+    height: 185px;
+    margin-top: 2560px;
+    margin-left: 513px;
+}
+.pered-iphone {
+    position: absolute;
+    background-image: url(/img/iphone.png);
+    width: 316px;
+    height: 473px;
+    margin-top: 2418px;
+    margin-left: 1160px;
+}
+.pered-iphone__fon {
+    position: absolute;
+    background-color: #fff;
+    width: 281px;
+    height: 440px;
+    margin-top: 2440px;
+    margin-left: 1175px;  
+}
+.pered-dannaz {
+    position: absolute;
+    cursor: pointer;
+}
+.pered-dannaz__one {
+    position: absolute;
+}
+.pered-dannaz__one-fio {
+    position: absolute;
+    color: #424242;
+    width: 100px;
+    border-radius: 9px;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 92px;
+    margin-top: 2520px;
+    margin-left: 1200px;
+    font-size: 20px;
+}
+.pered-dannaz__two {
+    position: absolute;
+    margin-top: 73px;
+}
+.pered-dannaz__three {
+    position: absolute;
+    margin-top: 146px;
+}
+.pered .btn {
+    position: absolute;
+    margin-top: 2800px;
+    margin-left: 1256px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.new-school {
+    position: absolute;
+    width: 100%;
+}
+.new-text {
+    position: absolute;
+    margin-top: 2948px;
+    margin-left: 370px;
+    font-size: 38px;
+    color: black;
+    vertical-align: top;
+    
+}
+.new-school__text {
+    position: absolute;
+    margin-top: 3387px;
+    margin-left: 386px;
+    font-size: 20px;
+    width: 100%;
+}
+.new-school__data {
+    position: absolute;
+    margin-top: 3341px;
+    margin-left: 386px;
+    font-size: 30px;
+    color: #014FA1;
+    cursor: pointer;
+}
+.new-school__line {
+    position: absolute;
+    margin-top: 3370px;
+    margin-left: 386px;
+}
+.new-school__more {
+    position: absolute;
+    margin-top: 3451px;
+    margin-left: 386px;
+    font-size: 24px;
+    cursor: pointer;
+}
+.new-school__point {
+    position: absolute;
+    margin-top: 3019px;
+    margin-left: 381px;
+}
+.new-school__point__fon {
+    position: absolute;
+    width: 510px;
+    height: 482px;
+    margin-top: 3009px;
+    margin-left: 370px;
+    box-shadow:  0 0  0 2px rgb(255,255,255),
+    0.3em 0.3em 1em rgba(0,0,0,0.3);
+;
+}
+.new-classroom__data {
+    position: absolute;
+    margin-top: 3019px;
+    margin-left: 1181px;
+    color: #014FA1;
+    font-size: 26px;
+    cursor: pointer;
+}
+.new-classroom__text {
+    position: absolute;
+    margin-top: 3056px;
+    margin-left: 1181px;
+    color: #424242;
+    font-size: 20px;
+}
+.new-classroom__line {
+    position: absolute;
+    margin-top: 3040px;
+    margin-left: 1181px;
+}
+.new-classroom__more {
+    position: absolute;
+    margin-top: 3119px;
+    margin-left: 1181px;
+    cursor: pointer;
+    font-size: 24px;
+}
+.new-classroom__point {
+    position: absolute;
+    margin-top: 3013px;
+    margin-left: 979px;
+}
+.new-classroom__point__fon {
+    position: absolute;
+    width: 593px;
+    height: 146px;
+    margin-top: 3004px;
+    margin-left: 970px;
+    box-shadow:  0 0  0 2px rgb(255,255,255),
+    0.3em 0.3em 1em rgba(0,0,0,0.3);
+;
+}
+.new-classsport {
+    position: absolute;
+    width: 100%;
+    margin-top: 173px;
+}
+.new-classizo {
+    position: absolute;
+    width: 100%;
+    margin-top: 343px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-fon {
+    position: absolute;
+    margin-top: 3608px;
+}
+.footer-icon {
+    position: absolute;
+    margin-top: 3633px;
+    margin-left: 429px;
+}
+.footer-adrec {
+    position: absolute;
+    margin-top: 3626px;
+    margin-left: 635px;
+    color: #fff;
+    font-size: 24px;
+}
+.footer-lizei {
+    position: absolute;
+    margin-top: 3674px;
+    margin-left: 572px;
+    color: #fff;
+    font-size: 16px;
+}
+.footer-geo {
+    position: absolute;
+    margin-top: 3708px;
+    margin-left: 572px;
+    color: #fff;
+    font-size: 14px;
+}
+.footer-white {
+    position: absolute;
+    margin-top: 3786px;
+    margin-left: 570px;
+    color: #fff;
+    width: 280px;
+}
+.footer-doschool {
+    position: absolute;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 3801px;
+    margin-left: 583px;
+}
+.footer-drugoi {
+    position: absolute;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 3832px;
+    margin-left: 583px;
+}
+.footer-contact {
+    position: absolute;
+    color: #fff;
+    font-size: 24px;
+    margin-top: 3626px;
+    margin-left: 947px;
+}
+.footer-telefon {
+    position: absolute;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 3673px;
+    margin-left: 916px;
+}
+.footer-priem {
+    position: absolute;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 3720px;
+    margin-left: 916px;
+}
+.footer-pochta {
+    position: absolute;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 3801px;
+    margin-left: 916px;
+}
+.footer-polozh {
+    position: absolute;
+    color: #fff;
+    font-size: 19px;
+    margin-top: 3832px;
+    margin-left: 916px;
+}
+.footer-black {
+    position: absolute;
+    margin-top: 3785px;
+    margin-left: 916px;
+    color: #fff;
+    width: 280px;
+}
+.footer-coz {
+    position: absolute;
+    color: #fff;
+    font-size: 24px;
+    margin-top: 3626px;
+    margin-left: 1257px;
+}
+.footer-vk {
+    position: absolute;
+    margin-top: 3673px;
+    margin-left: 1230px;
+}
+.footer-yt {
+    position: absolute;
+    margin-top: 3673px;
+    margin-left: 1290px;
+}
+.footer-tg {
+    position: absolute;
+    margin-top: 3673px;
+    margin-left: 1350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1440px)
+{ 
+    .top-header__text {
+        justify-content: center;
+    }
+    .sostav {
+        margin-left: -18rem;
+    }
+    .pered-lol {
+        margin-left: -22rem;
+    }
+    .pered-lol__line {
+        margin-left: 10rem;
+    }
+    .pered-iphone__fon {
+        margin-left: 51rem;
+    }
+    .pered-iphone {
+        margin-left: 49.9rem;
+    }
+    .pered-dannaz {
+        margin-left: -22rem;
+    }
+    .pered .btn {
+        margin-left: 56rem;
+    }
+    .opis-texttwo {
+        width: 100%;
+    }
+    .footer {
+        width: 100%;
+        margin-left: -11rem;
+    }
+    .footer-priem {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1440px)
+{ 
+    .article {
+        margin-left: -20rem;
+    }
+    .features-qwerty {
+        margin-left: -20rem;
+    }
+    .sostav-tort__text {
+        width: 100%;
+    }
+    .sostav-tort__textpod {
+        width: 100%;
+    }
+    .new-classsport .new-classroom__more {
+        display: none;
+    }
+    .new-school {
+        margin-left: -15rem;
+        width: 100%;
+    }
+    .new-class {
+        margin-left: -16rem;
+        width: 100%;
+    }
+    .new-classroom {
+        width: 100%;
+    }
+    .new-classroom__text {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 425px){
+    .article {
+        width: 20%;
+        margin-left: -30rem;
+    }
+    .features-qwerty {
+        width: 20%;
+        margin-left: -20rem;
+    }
+    .line {
+        display: none;
+    }
+    .linee {
+        display: none;
+    }
+    .article-card {
+        margin-top: -10rem;
+    }
+    .article-carde {
+        position: absolute;
+        width: 100%;
+        margin-left: 0rem;
+        margin-top: 12rem;
+    }
+    .article-cardt {
+        margin-top: -3rem;
+    }
+    .article-cardy {
+        margin-left: 0rem;
+        margin-top: 5rem;
+    }
+    .bottom-text {
+        margin-left: 0rem;
+    }
+    .fon-text {
+        margin-left: 1rem;
+    }
+    .opis-text {
+        margin-left: 1rem;
+    }
+    .opis-texttwo {
+        margin-left: 1rem;
+    }
+    .article-portw {
+        display: none;
+    }
+    .article-ports {
+        display: none;
+    }
+    .top-header__two {
+        margin-left: -25rem;
+    }
+    .sostav {
+        margin-left: -26rem;
+    }
+    .pered-text {
+        margin-left: 1rem;
+    }
+    .pered-iphone__fon {
+        margin-left: 38rem;
+    }
+    .pered-iphone {
+        margin-left: 37rem;
+    }
+    .pered-dannaz {
+        margin-left: -35rem;
+    }
+    .pered .btn {
+        margin-left: 43rem;
+    }
+    .sostav-tort__text {
+        width: 100%;
+    }
+    .sostav-tort__textpod {
+        width: 100%;
+    }
+    .new-class {
+        position: absolute;
+        margin-left: -53rem;
+        margin-top: 35rem;
+    }
+    .footer {
+        width: 100%;
+        margin-top: 30rem;
+        margin-left: -27rem;
+    }
+    .footer-coz {
+        display: none;
+    }
+    .footer-vk {
+        display: none;
+    }
+    .footer-yt {
+        display: none;
+    }
+    .footer-tg {
+        display: none;
+    }
+}
+@media screen and (max-width: 375px)
+{ 
+    .top-header__text {
+        justify-content: start;
+        margin-left: 21rem;
+    }
+    .top-header__logo {
+        margin-left: 10rem;
+    }
+    .header-text {
+        margin-left: 5rem;
+    }
+    .btn {
+        margin-left: 5rem;
+    }
+    .sostav-tortet__xim {
+        display: none;
+    }
+    .sostav-tortet__biolog {
+        display: none;
+    }
+    .sostav-dlin {
+        display: none;
+    }
+    .sostav-strelok {
+        display: none;
+    }
+    .sostav-tort__text {
+        width: 100%;
+    }
+    .sostav-tort__textpod {
+        width: 100%;
+    }
+    .pered-lol {
+        margin-left: -28rem;
+    }
+    .pered-lol__line {
+        margin-left: 4rem;
+    }
+    .pered-dannaz {
+        margin-left: -49rem;
+    }
+    .pered-iphone {
+        margin-left: 23rem;
+    }
+    .pered-iphone__fon {
+        margin-left: 24rem;
+    }
+    .pered .btn {
+        margin-left: 29rem;
+    }
+}
